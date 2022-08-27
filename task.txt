@@ -1,0 +1,28 @@
+create a project for for book purchase
+
+1. create a login that contains username and password // done
+
+2. create register for new user     //  done
+ 
+3. welcome email send for new user  //done
+
+
+4. after signed in to the portal user can purchase the book  //
+
+5. create admin portal with username and password //
+
+6. display all the users.   // done
+
+7. display all the books  // done
+
+8. add a new books where user can buy //
+
+9. when clicking that user it will list out all the books that user has purchased
+
+10. when clicking the book it will list out all the users who all are purchased that book
+
+11. logout the application
+
+do this. i will add some more tasks along with this
+
+
